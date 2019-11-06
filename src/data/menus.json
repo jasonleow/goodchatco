@@ -1,3 +1,11 @@
 {
+  "secondary": [
+    {
+      "identifier": "contact",
+      "title": "Contact",
+      "url": "/contact",
+      "weight": 1
+    }
+  ],
   "main": []
 }
