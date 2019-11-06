@@ -1,58 +1,80 @@
 ---
 title: Home
 sections:
-  - type: section_hero
-    section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    actions:
+  - actions:
       - label: Learn More
         url: /features
-  - type: section_features
-    section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    bg: gray
+    content: >-
+      Niche user recruitment done right for designers, UX researchers, and
+      project managers of human-centered design projects.
+    image: /images/photo-1552181903-a6af3a3d159d.jpeg
+    section_id: hero
+    title: 'User recruitment for designers, by designers.'
+    type: section_hero
+  - bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - actions:
+          - label: Learn more
+            url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          As design consultants ourselves, we have a deep appreciation of the
+          challenges of design research and the behavioural nuances required in
+          each user profile you speak to. We understand the difficulties (and
+          importance) in finding the right user to interview, which is why we
+          typically like to collaborate closely with you to explore how we can
+          find the best fit profile for your research needs. What this entails
+          is that we might hold brainstorming sessions to learn more about your
+          design research objectives; what you’re trying to learn from each
+          profile; how the research feeds into the subsequent design phases.
+          When we can understand what you’re trying to achieve, we are able to
+          recommend interesting and relevant user profiles that we might not
+          have originally thought of.
         image: images/feature1.png
-        actions:
-          - label: Learn More
+        title: 'For designers, by designers'
+      - actions:
+          - label: Learn more
             url: /features
-      - title: Awesome Feature of Your Services
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          We take a more qualitative approach in our screening processes. We do
+          so by asking open-ended questions and questions on their personal
+          journeys and stories based on the context of the research to assess
+          suitability for the research. We will interpret and calibrate the
+          profiles and provide contextual information to aid the team in your
+          selection of users for the research.
         image: images/feature2.png
-        actions:
-          - label: Learn More
+        title: Best fit for your selection
+      - actions:
+          - label: Learn more
             url: /features
-      - title: Cool Feature of Your Services
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Often times, your design research might throw up new issues to explore
+          which in turn change the original scope of the user profiles. The
+          conventional consumer research way of upfront confirmation of users
+          might not work for you. What we learned from our customers (and also
+          from our own work as designers!) is that they need to be able to
+          change the behavioural attributes/characteristics of the user profiles
+          along the way, and therefore recruitment has to be flexible and
+          adaptive. Our pricing allows for updates and responsive changes, as
+          your research changes.
         image: images/feature3.png
-        actions:
-          - label: Learn More
+        title: 'Flexible, adaptive recruiting for your fluid design process'
+      - actions:
+          - label: Learn more
             url: /features
-  - type: section_reviews
-    section_id: reviews
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    bg: white
+        content: >-
+          We have built up lots of social capital via a network of connectors
+          and respondents who are interested in contributing to issues on public
+          good and social causes. Our recruitment is dedicated exclusively for
+          governments, non-profits and even commercial companies who are in the
+          business of social good. So you’ll find that we can find the right
+          users and experts who are able to contribute deeply to your public
+          good project.
+        title: Social capital for social good
+    section_id: features
+    subtitle: ''
+    title: ''
+    type: section_features
+  - bg: white
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
@@ -70,20 +92,27 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_cta
+    section_id: reviews
+    subtitle: >-
+      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
+      semper libero id sodales. 
+    title: Testimonials
+    type: section_reviews
+  - actions:
+      - label: Contact
+        url: 'mailto:giecheong@gmail.com'
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
+    subtitle: Drop us an email to start chatting
+    title: Contact us
+    type: section_cta
+  - bg: gray
     section_id: recent-posts
     title: Latest Posts
-    bg: gray
+    type: section_posts
 menus:
   main:
     title: Home
     weight: 1
 template: landing
 ---
+
