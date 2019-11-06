@@ -1,61 +1,62 @@
 ---
 title: Pricing
 sections:
-  - bg: gray
-    pricingplans:
-      - actions:
-          - label: Recruit now
-            url: /contact
-        details: >-
-          **Recruitment**
+  - actions:
+      - label: Recruit now
+        url: /contact
+    bg: gray
+    content: >-
+      ## **$300-700 per user**
 
 
-          Recruitment of users based on the screener requirements provided
-          (Please see FAQ on the rates per user)
+      ****
 
 
-          Scoping of user profiles (if necessary)
+      **Recruitment**
 
 
-          Pre-interview screening and briefing to users
+      Recruitment of users based on the screener requirements provided (Please
+      see FAQ on the rates per user)
 
 
-          Scheduling and coordination of time and venue for interviews
+      Scoping of user profiles (if necessary)
 
 
-          Providing details of screened users via excel/PDF format to client
+      Pre-interview screening and briefing to users
 
 
-          Reminders/Communication to users on details of chat sessions
+      Scheduling and coordination of time and venue for interviews
 
 
+      Providing details of screened users via excel/PDF format to client
 
 
-          **Incentives & Other Admin charges**
-
-
-          Purchase of incentives, at the base cost of incentives
-
-
-          Administration charges at 3% of total recruitment cost
+      Reminders/Communication to users on details of chat sessions
 
 
 
 
-          **Optional items**
+      **Incentives & Other Admin charges**
 
 
-          Changes to user profile, per user
+      Purchase of incentives, at the base cost of incentives
 
 
-          Additional recruitment services beyond required project scope, per
-          user
-        price: $300-700 per user
-        title: Recruitment fees
+      Administration charges at 3% of total recruitment cost
+
+
+
+
+      **Optional items**
+
+
+      Changes to user profile, per user
+
+
+      Additional recruitment services beyond required project scope, per user
     section_id: pricing
-    subtitle: You can have a separate pricing page or list everything on the home page.
-    title: Pricing Plans
-    type: section_pricing
+    title: Pricing
+    type: section_content
   - bg: gray
     faqitems:
       - answer: >-
