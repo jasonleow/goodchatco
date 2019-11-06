@@ -49,7 +49,7 @@ sections:
       * Changes to user profile, per user
 
       * Additional recruitment services beyond required project scope, per user
-    image: /images/undraw_credit_card_payment_yb88.svg
+    image: ''
     section_id: pricing
     title: Pricing
     type: section_content
