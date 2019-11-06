@@ -44,6 +44,8 @@ sections:
           </tr>
         </tbody>
       </table>
+
+      ****
     image: ''
     section_id: pricing
     title: Pricing
