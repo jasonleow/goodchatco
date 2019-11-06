@@ -43,14 +43,8 @@ sections:
             <td>Reminders/Communication to users on details of chat sessions</td>
           </tr>
         </tbody>
-        <tfoot>
-          <tr>
-            <td>Footer content 1</td>
-            <td>Footer content 2</td>
-          </tr>
-        </tfoot>
       </table>
-    image: /images/undraw_credit_card_payment_yb88.svg
+    image: ''
     section_id: pricing
     title: Pricing
     type: section_content
