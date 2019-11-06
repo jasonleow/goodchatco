@@ -2,8 +2,8 @@
   "title": "Good Chat Co.",
   "palette": "orange",
   "header": {
-    "title": "Azimuth",
-    "logo_img": "/images/twitter_profile_image.png",
+    "title": "Good Chat Co",
+    "logo_img": "/images/linkedin_banner_image_1.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "Good Chat Co is an initiative under Social Good Creatives Co.",
-    "logo_img": "/images/logo_transparent.png",
+    "logo_img": "/images/linkedin_banner_image_1.png",
     "has_social": true,
     "content": "&copy; Social Good Creatives Co. UEN 53377788K. All rights reserved.",
     "links": [],
