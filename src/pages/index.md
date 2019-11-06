@@ -94,9 +94,7 @@ sections:
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: What our customers said about our service quality
     title: Testimonials
     type: section_reviews
   - actions:
@@ -106,10 +104,6 @@ sections:
     subtitle: 'Come, let''s have coffee and a good chat.'
     title: Contact us
     type: section_cta
-  - bg: gray
-    section_id: recent-posts
-    title: Latest Posts
-    type: section_posts
 menus:
   main:
     title: Home
