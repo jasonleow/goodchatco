@@ -3,6 +3,9 @@ title: About us
 subtitle: 'Angie Cheong - Design Facilitator, User Recruiter'
 img_path: /images/photo-1563721606111-23a77228f8c3.jpeg
 menus:
+  main:
+    title: About
+    weight: 1
   secondary:
     title: About us
     weight: 1
