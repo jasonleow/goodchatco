@@ -99,7 +99,7 @@ sections:
     type: section_reviews
   - actions:
       - label: Contact
-        url: 'mailto:giecheong@gmail.com'
+        url: /contact
     section_id: call-to-action
     subtitle: 'Come, let''s have coffee and a good chat.'
     title: Contact us
