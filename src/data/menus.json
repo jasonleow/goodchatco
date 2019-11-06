@@ -1,1 +1,22 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "home",
+      "title": "Home",
+      "url": "/",
+      "weight": 1
+    },
+    {
+      "identifier": "scope",
+      "title": "Scope",
+      "url": "/scope",
+      "weight": 2
+    },
+    {
+      "identifier": "pricing",
+      "title": "Pricing",
+      "url": "/pricing",
+      "weight": 3
+    }
+  ]
+}
