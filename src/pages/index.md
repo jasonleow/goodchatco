@@ -7,11 +7,11 @@ sections:
     content: >-
       Niche user recruitment done right for designers, UX researchers, and
       project managers of human-centered design projects.
-    image: /images/undraw_getting_coffee_wntr.png
+    image: /images/undraw_getting_coffee_wntr.svg
     section_id: hero
     title: 'User recruitment for designers, by designers.'
     type: section_hero
-  - bg: gray
+  - bg: white
     featureslist:
       - actions:
           - label: Learn more
@@ -75,7 +75,7 @@ sections:
     subtitle: ''
     title: ''
     type: section_features
-  - bg: white
+  - bg: gray
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
