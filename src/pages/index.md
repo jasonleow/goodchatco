@@ -7,7 +7,7 @@ sections:
     content: >-
       Niche user recruitment done right for designers, UX researchers, and
       project managers of human-centered design projects.
-    image: /images/photo-1552181903-a6af3a3d159d.jpeg
+    image: /images/undraw_getting_coffee_wntr.png
     section_id: hero
     title: 'User recruitment for designers, by designers.'
     type: section_hero
@@ -29,7 +29,7 @@ sections:
           When we can understand what you’re trying to achieve, we are able to
           recommend interesting and relevant user profiles that we might not
           have originally thought of.
-        image: images/feature1.png
+        image: /images/undraw_design_sprint_x3eb.png
         title: 'For designers, by designers'
       - actions:
           - label: Learn more
@@ -41,7 +41,7 @@ sections:
           suitability for the research. We will interpret and calibrate the
           profiles and provide contextual information to aid the team in your
           selection of users for the research.
-        image: images/feature2.png
+        image: /images/undraw_filter_4kje.png
         title: Best fit for your selection
       - actions:
           - label: Learn more
@@ -56,7 +56,7 @@ sections:
           along the way, and therefore recruitment has to be flexible and
           adaptive. Our pricing allows for updates and responsive changes, as
           your research changes.
-        image: images/feature3.png
+        image: /images/undraw_updated_rr85.png
         title: 'Flexible, adaptive recruiting for your fluid design process'
       - actions:
           - label: Learn more
@@ -69,6 +69,7 @@ sections:
           business of social good. So you’ll find that we can find the right
           users and experts who are able to contribute deeply to your public
           good project.
+        image: /images/undraw_complete_design_ongo.png
         title: Social capital for social good
     section_id: features
     subtitle: ''
@@ -102,7 +103,7 @@ sections:
       - label: Contact
         url: 'mailto:giecheong@gmail.com'
     section_id: call-to-action
-    subtitle: Drop us an email to start chatting
+    subtitle: 'Come, let''s have coffee and a good chat.'
     title: Contact us
     type: section_cta
   - bg: gray
