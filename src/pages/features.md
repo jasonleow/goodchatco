@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Scope
 sections:
   - actions: []
     bg: white
@@ -31,7 +31,7 @@ sections:
 
       • Support in purchase of incentives
     image: /images/undraw_process_e90d.png
-    section_id: features
+    section_id: scope
     title: Scope of work
     type: section_content
   - actions:
@@ -43,7 +43,7 @@ sections:
     type: section_cta
 menus:
   main:
-    title: Features
+    title: Scope
     weight: 2
 template: landing
 ---
