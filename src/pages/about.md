@@ -8,7 +8,7 @@ menus:
     weight: 1
   secondary:
     title: About us
-    weight: 1
+    weight: 4
 template: page
 ---
 Angie has built up deep experience in the public service and in the social service sector. Her 16 years in the sectors exposed her to the work ranging from policy to direct work with the different stakeholder groups, which includes the elderly, low income families, non-profit organisations, government agencies and the grassroots organisations. In her work in Central Singapore Community Development Council, Angie had the opportunity to use human-centred design principles through a simulation activity called Walk A Mile (Poverty Simulation activity). This simulation activity aimed to generate empathy for vulnerable groups and also to convince community partners to collaborate. Her work on Walk A Mile was subsequently mentioned at the Public Service Day as an example of the need for Public Service to move towards the direction of client-centricity.
