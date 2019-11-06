@@ -1,15 +1,15 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "Good Chat Co.",
   "palette": "orange",
   "header": {
     "title": "Azimuth",
-    "logo_img": "/images/logo_transparent.png",
+    "logo_img": "/images/twitter_profile_image.png",
     "has_nav": true,
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Contact",
+          "url": "/contact"
         }
       ]
     }
