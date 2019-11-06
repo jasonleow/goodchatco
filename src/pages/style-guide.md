@@ -7,7 +7,7 @@ subtitle: >-
 menus:
   main:
     title: ''
-    weight: 8
+    weight: -3
 template: page
 ---
 
