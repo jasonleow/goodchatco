@@ -1,17 +1,15 @@
 ---
 title: Contact
 sections:
-  - type: section_contact
+  - bg: gray
+    content: Drop us a message to discuss your user recruitment needs.
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
+    type: section_contact
 menus:
   secondary:
     title: Contact
     weight: 3
 template: landing
 ---
+
