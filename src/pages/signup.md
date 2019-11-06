@@ -7,7 +7,7 @@ img_path: images/11.jpg
 menus:
   secondary:
     title: Sign Up
-    weight: 1
+    weight: -2
 template: page
 ---
 
