@@ -16,15 +16,20 @@ sections:
 
 
       Recruitment of users based on the screener requirements provided (Please
-      see FAQ on the rates per user)\
+      see FAQ on the rates per user)
 
-      Scoping of user profiles (if necessary)\
 
-      Pre-interview screening and briefing to users\
+      Scoping of user profiles (if necessary)
 
-      Scheduling and coordination of time and venue for interviews\
 
-      Providing details of screened users via excel/PDF format to client\
+      Pre-interview screening and briefing to users
+
+
+      Scheduling and coordination of time and venue for interviews
+
+
+      Providing details of screened users via excel/PDF format to client
+
 
       Reminders/Communication to users on details of chat sessions
 
@@ -35,7 +40,8 @@ sections:
       **Incentives & Other Admin charges**
 
 
-      Purchase of incentives, at the base cost of incentives\
+      Purchase of incentives, at the base cost of incentives
+
 
       Administration charges at 3% of total recruitment cost
 
@@ -46,7 +52,8 @@ sections:
       **Optional items**
 
 
-      Changes to user profile, per user\
+      Changes to user profile, per user
+
 
       Additional recruitment services beyond required project scope, per user
     image: ''
