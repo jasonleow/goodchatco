@@ -7,7 +7,7 @@ sections:
     content: >-
       Niche user recruitment done right for designers, UX researchers, and
       project managers of human-centered design projects.
-    image: /images/undraw_getting_coffee_wntr.svg
+    image: /images/undraw_getting_coffee_wntr-1-.svg
     section_id: hero
     title: 'User recruitment for designers, by designers.'
     type: section_hero
