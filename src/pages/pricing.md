@@ -5,48 +5,51 @@ sections:
       - label: Recruit now
         url: /contact
     bg: gray
-    content: |-
+    content: >-
       ## **$300-700 per user**
 
-      ****
 
-      <table>
-          <caption>Table with thead, tfoot, and tbody</caption>
-        <thead>
-          <tr>
-            <th>Recruitment</th>
-            <th>Incentives & Other Admin charges</th>
-            <th>Optional items</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Recruitment of users based on the screener requirements provided (Please see FAQ on the rates per user)</td>
-            <td>Purchase of incentives, at the base cost of incentives</td>
-            <td>Changes to user profile, per user</td>
-          </tr>
-          <tr>
-            <td>Scoping of user profiles (if necessary)</td>
-            <td>Administration charges at 3% of total recruitment cost</td>
-            <td>Additional recruitment services beyond required project scope, per user</td>
-          </tr>
-          <tr>
-            <td>Pre-interview screening and briefing to users</td>
-          </tr>
-          <tr>
-            <td>Scheduling and coordination of time and venue for interviews</td>
-          </tr>
-          <tr>
-            <td>Providing details of screened users via excel/PDF format to client</td>
-          </tr>
-          <tr>
-            <td>Reminders/Communication to users on details of chat sessions</td>
-          </tr>
-        </tbody>
-      </table>
+      - - -
+
+
+      **Recruitment**
+
+
+      * Recruitment of users based on the screener requirements provided (Please
+      see FAQ on the rates per user)
+
+      * Scoping of user profiles (if necessary)
+
+      * Pre-interview screening and briefing to users
+
+      * Scheduling and coordination of time and venue for interviews
+
+      * Providing details of screened users via excel/PDF format to client
+
+      * Reminders/Communication to users on details of chat sessions
+
 
       ****
-    image: ''
+
+
+      **Incentives & Other Admin charges**
+
+
+      * Purchase of incentives, at the base cost of incentives
+
+      * Administration charges at 3% of total recruitment cost
+
+
+      ****
+
+
+      **Optional items**
+
+
+      * Changes to user profile, per user
+
+      * Additional recruitment services beyond required project scope, per user
+    image: /images/undraw_credit_card_payment_yb88.svg
     section_id: pricing
     title: Pricing
     type: section_content
