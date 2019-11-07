@@ -68,6 +68,41 @@ sections:
     title: ''
     type: section_features
   - bg: gray
+    pricingplans:
+      - actions:
+          - label: Recruit now
+            url: /contact
+        details: |-
+          User profile is simple and easy to find 
+
+          Standard lead time
+        highlight: false
+        price: $300
+        title: Basic
+      - actions:
+          - label: Recruit now
+            url: /contact
+        details: |-
+          User profile more complex to find
+
+          Standard lead time
+        highlight: true
+        price: $500
+        title: Complex
+      - actions:
+          - label: Recruit now
+            url: /contact
+        details: |-
+          User profile is complex 
+
+          Lead time is short
+        highlight: false
+        price: $700
+        title: Premium
+    section_id: pricing
+    title: Pricing
+    type: section_pricing
+  - bg: gray
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
