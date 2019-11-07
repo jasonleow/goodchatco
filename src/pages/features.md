@@ -34,13 +34,13 @@ sections:
     type: section_cta
 menus:
   main:
-    identifier: scope
+    identifier: ''
     title: Scope
     weight: 2
   secondary:
-    identifier: scope
-    title: scope
-    weight: 2
+    identifier: ''
+    title: ''
+    weight: -2
 template: landing
 ---
 
