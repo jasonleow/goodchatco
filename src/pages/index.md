@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Learn More
-        url: /features
+        url: '/#features'
     content: >-
       Niche user recruitment done right for designers, UX researchers, and
       project managers of human-centered design projects.
@@ -13,9 +13,7 @@ sections:
     type: section_hero
   - bg: white
     featureslist:
-      - actions:
-          - label: Learn more
-            url: /features
+      - actions: []
         content: >-
           As design consultants ourselves, we have a deep appreciation of the
           challenges of design research and the behavioural nuances required in
@@ -31,9 +29,7 @@ sections:
           have originally thought of.
         image: /images/undraw_design_sprint_x3eb.png
         title: 'For designers, by designers'
-      - actions:
-          - label: Learn more
-            url: /features
+      - actions: []
         content: >-
           We take a more qualitative approach in our screening processes. We do
           so by asking open-ended questions and questions on their personal
@@ -43,9 +39,7 @@ sections:
           selection of users for the research.
         image: /images/undraw_filter_4kje.png
         title: Best fit for your selection
-      - actions:
-          - label: Learn more
-            url: /features
+      - actions: []
         content: >-
           Often times, your design research might throw up new issues to explore
           which in turn change the original scope of the user profiles. The
@@ -58,9 +52,7 @@ sections:
           your research changes.
         image: /images/undraw_updated_rr85.png
         title: 'Flexible, adaptive recruiting for your fluid design process'
-      - actions:
-          - label: Learn more
-            url: /features
+      - actions: []
         content: >-
           We have built up lots of social capital via a network of connectors
           and respondents who are interested in contributing to issues on public
