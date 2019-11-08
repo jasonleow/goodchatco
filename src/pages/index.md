@@ -67,9 +67,9 @@ sections:
     subtitle: ''
     title: ''
     type: section_features
-  - bg: white
-    content: ''
-    image: /images/clients.png
+  - bg: gray
+    content: '![clients](/images/clients.png)'
+    image: ''
     section_id: clients
     title: Our clients
     type: section_content
