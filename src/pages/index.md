@@ -67,20 +67,9 @@ sections:
     subtitle: ''
     title: ''
     type: section_features
-  - bg: gray
-    content: >-
-
-      test
-
-      | ![](/images/logo.png) | ![](/images/avatar.png) |
-      ![](/images/linkedin_banner_image_1.png) |
-
-
-
-      <img style="float: right; width: 80px;" src="/images/logo.png"><img
-      style="float: right; width: 80px;" src="/images/avatar.png"><img
-      style="float: right; width: 80px;"
-      src="/images/linkedin_banner_image_1.png">
+  - bg: white
+    content: ''
+    image: /images/clients.png
     section_id: clients
     title: Our clients
     type: section_content
