@@ -72,12 +72,6 @@ sections:
     subtitle: ''
     title: ''
     type: section_features
-  - bg: gray
-    content: '![clients](/images/clients.png)'
-    image: ''
-    section_id: clients
-    title: Our clients
-    type: section_content
   - actions:
       - label: Contact
         url: /contact
@@ -85,6 +79,11 @@ sections:
     subtitle: 'Come, let''s have coffee and a good chat.'
     title: Contact us
     type: section_cta
+  - bg: gray
+    section_id: contact
+    subtitle: 'Come, let''s have coffee and a good chat.'
+    title: Contact
+    type: section_contact
 menus:
   main:
     title: Home
