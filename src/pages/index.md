@@ -68,26 +68,10 @@ sections:
     title: ''
     type: section_features
   - bg: gray
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-    section_id: reviews
-    subtitle: What our customers said about our service quality
-    title: Testimonials
+    reviews: []
+    section_id: clients
+    subtitle: We recruited users for these companies and organisations
+    title: Our clients
     type: section_reviews
   - actions:
       - label: Contact
@@ -96,6 +80,20 @@ sections:
     subtitle: 'Come, let''s have coffee and a good chat.'
     title: Contact us
     type: section_cta
+  - bg: gray
+    content: |-
+      test
+
+
+
+      ![](/images/logo.png)
+
+      ![](/images/avatar.png)
+
+      ![](/images/linkedin_banner_image_1.png)
+    section_id: test
+    title: test
+    type: section_content
 menus:
   main:
     title: Home
