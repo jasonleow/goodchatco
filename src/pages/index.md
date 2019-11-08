@@ -63,6 +63,11 @@ sections:
           good project.
         image: /images/undraw_complete_design_ongo.png
         title: Social capital for social good
+      - content: >-
+          Over the years, we had recruited users for these companies and
+          organisations, in both private and public sectors.
+        image: /images/clients.png
+        title: Our clients
     section_id: features
     subtitle: ''
     title: ''
