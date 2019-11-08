@@ -68,11 +68,16 @@ sections:
     title: ''
     type: section_features
   - bg: gray
-    reviews: []
+    content: >-
+
+      test
+
+      <img style="float: right;" src="/images/logo.png"><img style="float:
+      right;" src="/images/avatar.png"><img style="float: right;"
+      src="/images/linkedin_banner_image_1.png">
     section_id: clients
-    subtitle: We recruited users for these companies and organisations
     title: Our clients
-    type: section_reviews
+    type: section_content
   - actions:
       - label: Contact
         url: /contact
@@ -80,20 +85,6 @@ sections:
     subtitle: 'Come, let''s have coffee and a good chat.'
     title: Contact us
     type: section_cta
-  - bg: gray
-    content: |-
-      test
-
-
-
-      ![](/images/logo.png)
-
-      ![](/images/avatar.png)
-
-      ![](/images/linkedin_banner_image_1.png)
-    section_id: test
-    title: test
-    type: section_content
 menus:
   main:
     title: Home
