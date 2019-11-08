@@ -72,8 +72,14 @@ sections:
 
       test
 
-      <img style="float: right;" src="/images/logo.png"><img style="float:
-      right;" src="/images/avatar.png"><img style="float: right;"
+      | ![](/images/logo.png) | ![](/images/avatar.png) |
+      ![](/images/linkedin_banner_image_1.png) |
+
+
+
+      <img style="float: right; width: 80px;" src="/images/logo.png"><img
+      style="float: right; width: 80px;" src="/images/avatar.png"><img
+      style="float: right; width: 80px;"
       src="/images/linkedin_banner_image_1.png">
     section_id: clients
     title: Our clients
