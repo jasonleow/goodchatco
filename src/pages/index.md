@@ -66,7 +66,7 @@ sections:
       - content: >-
           Over the years, we had recruited users for these companies and
           organisations, in both private and public sectors.
-        image: /images/clients.png
+        image: /images/goodchatco_client_logos.png
         title: Our clients
     section_id: features
     subtitle: ''
